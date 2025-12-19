@@ -13,10 +13,10 @@ L’objectif est d'observer la répartition des pickups à divers moments de la 
 
 * __Option 1__ : Cloner et lancer localement
 
-git clone https://github.com/FreudArthur/Pickup-Analysis.git
-cd Pickup-Analysis
-pip install -r requirements.txt
-streamlit run uber_pickups.py
+git clone https://github.com/FreudArthur/Pickup-Analysis.git  
+cd Pickup-Analysis   
+pip install -r requirements.txt   
+streamlit run uber_pickups.py   
 
 
 * __Option 2__ : Utiliser directement en ligne
