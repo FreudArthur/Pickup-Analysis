@@ -3,6 +3,12 @@ import pandas as pd
 import numpy as np
 
 
+st.set_page_config(
+    page_title="Check the pickup",  
+    page_icon="pick.png",                 
+    layout="centered",              
+    initial_sidebar_state="auto"  
+)
 st.title('Uber pickups au NYC')
 
 
